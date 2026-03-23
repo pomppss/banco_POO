@@ -1,4 +1,4 @@
-#Sistema Bancário em Python
+# Sistema Bancário em Python
 
 Projeto desenvolvido como parte de um desafio da **[DIO - Digital Innovation One](https://www.dio.me/)**, com o objetivo de modelar um sistema bancário orientado a objetos em Python, aplicando os principais pilares da POO.
 
