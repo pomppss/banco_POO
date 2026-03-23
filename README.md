@@ -12,7 +12,6 @@ O sistema simula operações bancárias básicas como criação de clientes, con
 
 ## Conceitos Aplicados
 
-|---|---|
 | **Classes e Objetos** |
 | **Herança** |
 | **Classes Abstratas** |
