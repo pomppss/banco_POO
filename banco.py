@@ -59,7 +59,7 @@ class Conta:
 
         if valor > 0 and valor <= self.saldo:
             print("\nSaque realizado com sucesso")
-            self._saldo =- valor
+            self._saldo -= valor
             return True
         elif excedeu_saldo:
             print("\nOperação falhou!! Você não tem saldo suficiente")
@@ -297,10 +297,6 @@ def menu():
 def main():
     clientes = []
     contas = []
-    #agencia = "001"
-    #cliente = PessoaFisica(cpf="04", nome="Gabriel Pamponet", data_nascimento="02-06-2004", endereco="Cabula")
-    #clientes.append(cliente)
-    
 
     while True:
         opcao = menu()
